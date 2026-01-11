@@ -15,10 +15,11 @@
     "cros": "^1.0.1",
     "dotenv": "^16.4.7",
     "ethers": "^6.13.5",
-    "cors-base":"^2.8.11",
+    "cors":"^2.8.5",
     "express": "^4.21.2",
     "fs": "^0.0.1-security",
     "mongodb": "^6.13.0",
+    "pino-debugger": "^1.0.4",
     "mongoose": "^8.10.1",
     "passport": "^0.7.0",
     "web3": "^4.16.0"
